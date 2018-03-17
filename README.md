@@ -1,4 +1,11 @@
+<p align="center">
+  <img src="move-2.png"></img>
+</p>
+<p align="center">
+
 # Move-2 
+
+[![LoC](https://tokei.rs/b1/github/m-cat/move-2)](https://github.com/m-cat/move-2)
 
 Optimised movement commands for Emacs
 
